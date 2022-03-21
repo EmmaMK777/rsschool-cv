@@ -19,7 +19,7 @@ ___
 ___
 ### Образование и курсы:
 * Видеоуроки HTML и CSS.
-* Курсы тестирования Soft от SkillUp
+* IT specialists training centre SkillUp, software testing, 2022
 ___
 ### Язык: 
 
