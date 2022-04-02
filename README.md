@@ -22,9 +22,9 @@ ___
 ___
 ### Languages: 
 
-Belarus
+* Belarus
 
-Russian
+* Russian
 
-English: В2 (in progress)
+* English: В2 (in progress)
 ___
