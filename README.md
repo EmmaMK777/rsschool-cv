@@ -11,6 +11,8 @@ __E-mail:__ Zolotaya123osen@gmail.com
 
 
 __Discord:__ EmmaMK777#9436
+
+
 ___
 ### Profile:
  I am just starting my experience in IT. I'm interested in frond end development. But I also completed my QA engineering course in early 2022.
