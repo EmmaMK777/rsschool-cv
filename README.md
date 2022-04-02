@@ -17,7 +17,7 @@ ___
 ___
 ### Education and courses:
 * Video tutorials on youtube HTML & CSS.
-* IT specialists training centre SkillUp, software testing, 2022
+* IT specialists training centre SkillUp, software testing, 2022, Kiyv
 * English courses
 ___
 ### Languages: 
