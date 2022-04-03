@@ -1,7 +1,6 @@
 # rsschool-cv
 https://EmmaMK777.github.io/rsschool-cv/index.html
 
-# rsschool-cv
 ___
 # Emma Palivoda
 
@@ -33,3 +32,5 @@ ___
 
 * English: В2 (in progress)
 ___
+=======
+
