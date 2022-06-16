@@ -30,3 +30,12 @@ ___
 
 * English: В2 (in progress)
 ___
+
+### Skills:
+
+* good soft skills
+* HTML
+* CSS
+* SQL
+* JIRA
+* POSTMAN
