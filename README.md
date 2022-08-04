@@ -28,7 +28,7 @@ ___
 
 * Russian
 
-* English: В2 (in progress)
+* English: В1 (in progress)
 ___
 
 ### Skills:
